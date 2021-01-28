@@ -688,7 +688,7 @@ h6 {
 }
 
 .site-logo {
-    height: 25px;
+    height: 60px;
 }
 
 .site-mast {
@@ -709,7 +709,7 @@ h6 {
 .site-banner {
     max-width: 80%;
     margin: 0 auto;
-    padding: 2vw 0;
+    padding: 1vw 0;
     text-align: center;
 }
 
