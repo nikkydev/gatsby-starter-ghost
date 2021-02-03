@@ -665,9 +665,8 @@ h6 {
     padding-top: 20px;
     padding-bottom: 20px;
     color: #fff;
-    background: var(--color-base);
-    background-position: center;
-    background-size: cover;
+    background: rgb(97,34,113);
+    background: radial-gradient(circle, rgba(97,34,113,1) 24%, rgba(65,2,69,1) 61%);
 }
 
 .site-nav-item {
